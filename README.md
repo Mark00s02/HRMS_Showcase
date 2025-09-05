@@ -18,6 +18,19 @@ This repository serves only as a **showcase** of my work and skills.
 ## 🖼️ Screenshots (Sample / Mockups)
 > Screenshots displayed here use **dummy data** for confidentiality.  
 
+### Login Page
+![Login Screenshot](screenshots/Login Page.png)
+
+### Employee Dashboard
+![Employee Dashboard Screenshot](screenshots/Employee Page.png)
+
+### Admin Page
+![Admin Dashboard Screenshot](screenshots/Admin Dashboard.png)
+![Admin Dashboard Screenshot](screenshots/Statistics Admin Side.png)
+![View Employee Screenshot](screenshots/Employee Search.png)
+![View Employee Screenshot](screenshots/Employee Search Result.png)
+![Add Employee Screenshot](screenshots/Employee Creation.png)
+![Add Employee Screenshot](screenshots/Success Modal.png)
 
 ---
 
