@@ -16,21 +16,22 @@ This repository serves only as a **showcase** of my work and skills.
 ---
 
 ## 🖼️ Screenshots (Sample / Mockups)
-> Screenshots displayed here use **dummy data** for confidentiality.  
+> Screenshots displayed here use dummy data for confidentiality.  
 
 ### Login Page
-![Login Screenshot](Screenshots/Login Page.png)
+![Login Screenshot](Screenshots/Login%20Page.png)
 
 ### Employee Dashboard
-![Employee Dashboard Screenshot](Screenshots/Employee Page.png)
+![Employee Dashboard Screenshot](Screenshots/Employee%20Page.png)
 
 ### Admin Page
-![Admin Dashboard Screenshot](Screenshots/Admin Dashboard.png)
-![Admin Dashboard Screenshot](Screenshots/Statistics Admin Side.png)
-![View Employee Screenshot](Screenshots/Employee Search.png)
-![View Employee Screenshot](Screenshots/Employee Search Result.png)
-![Add Employee Screenshot](Screenshots/Employee Creation.png)
-![Add Employee Screenshot](Screenshots/Success Modal.png)
+![Admin Dashboard Screenshot](Screenshots/Admin%20Dashboard.png)  
+![Admin Statistics Screenshot](Screenshots/Statistics%20Admin%20Side.png)  
+![View Employee Screenshot](Screenshots/Employee%20Search.png)  
+![Employee Search Result Screenshot](Screenshots/Employee%20Search%20Result.png)  
+![Add Employee Screenshot](Screenshots/Employee%20Creation.png)  
+![Success Modal Screenshot](Screenshots/Success%20Modal.png)
+
 
 ---
 
