@@ -1,6 +1,6 @@
 # 🏢 HRMS Project (Showcase)
 
-A **Human Resource Management System (HRMS)** developed to support HR operations such as employee management, attendance tracking, and payroll.  
+A **Human Resource Management System (HRMS)** developed to support HR operations such as employee management, attendance tracking, and creation of accounts.  
 This project demonstrates my experience in building secure, role-based business applications.  
 
 ⚠️ **Note:** Due to confidentiality and company policy, the source code and live demo cannot be shared.  
